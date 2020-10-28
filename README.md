@@ -17,7 +17,7 @@ Main tasks:
 
 * Untitled0.ipynb  - The master notebook that contains all sorts of analysis done right from data preperocessing, EDA, time series analysis, LDA ...
 
-`acraping kernels`contains the following notebook:
+`scraping kernels`contains the following notebook:
 
 * crawler_tweets.ipynb  - Kernel responsible for tweets scraping.
 
